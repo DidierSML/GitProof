@@ -22,6 +22,7 @@ public class GitProof {
 
         String message5 = "Seguimos probando cambios d(rl) -> m(rl), para despues subirlos a master github";//9no
         String message6 = "modificando esta línea desde GH";//zzz
+        String message7 = "modificando esta línea desde GH";//zzz
     }
 
 
