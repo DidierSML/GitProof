@@ -7,8 +7,10 @@ public class GitProof {
         System.out.println(newMessage);
 
         String cl2;
-        cl2 = "- Agregando una clase para prueba trabajada desde una (rama derivada de la rama local master -development)";
+        cl2 = "- Agregando una clase para prueba trabajada desde una (rama derivada de la rama local master -development)";//3ro
         System.out.println(cl2);
+
+        String message = "Seguimos probando cambios d(rl) -> m(rl), para despues subirlos a master github";//4to
     }
 
 
