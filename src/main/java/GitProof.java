@@ -15,6 +15,9 @@ public class GitProof {
 
         String masterLocal = "Cambio realizado directamente en m(rl), no se realizo en d(rl), se usa push para subir a gh";//5to
         System.out.println(masterLocal);
+
+        String masterLocal2 = "Cambio realizado desde m(rl),se realiza merge previamente, no se realizo en d(rl), se usa push para subir a gh";//6to
+
     }
 
 
