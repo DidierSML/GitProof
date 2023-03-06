@@ -15,6 +15,10 @@ public class GitProof {
         String message1 = "Seguimos probando cambios d(rl) -> m(rl), para despues subirlos a master github";//5to
 
         String message2 = "Seguimos probando cambios d(rl) -> m(rl), para despues subirlos a master github";//6to
+
+        String message3 = "Seguimos probando cambios d(rl) -> m(rl), para despues subirlos a master github";//7mo
+
+        String message4 = "Seguimos probando cambios d(rl) -> m(rl), para despues subirlos a master github";//8vo
     }
 
 
